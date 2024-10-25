@@ -6,9 +6,10 @@
 
 ## Ore multiplier
 
-Purpose of doubler: "convert" all Poor nodes to Normal
+Purposes:
 
-Purpose of tripler: "convert" all Poor nodes to Normal and have 300 U spare for zero-stage use
+* doubler: "convert" all Poor nodes to Normal
+* tripler: "convert" all Poor nodes to Normal and have 300 U spare for non-power usage
 
 |Recipe|Input|Output|
 |------|-----|------|
@@ -19,7 +20,7 @@ Purpose of tripler: "convert" all Poor nodes to Normal and have 300 U spare for 
 |[U-tripler from Ag](https://www.satisfactorytools.com/1.0/production?share=BWDokahfb3fziz5EWOgC)|`300 U + 1000 SAM + 3000 Au`|`600 U`|
 |U-tripler from Al not calculable?|`300 U +  200 SAM + 2400 Al`|`600 U`|
 
-## Zero-stage usage
+## Non-power usage
 
 |Recipe|Input|Output| 
 |------|-----|------|
@@ -27,7 +28,7 @@ Purpose of tripler: "convert" all Poor nodes to Normal and have 300 U spare for 
 
 ## Fuel
 
-|Recipe|Input|Output|NPP# @100%|NPP# @200%|NPP blcok output|Waste|Notes|
+|Recipe|Input|Output|NPP# @100%|NPP# @200%|NPP block output|Waste|Notes|
 |------|-----|------|----------|----------|----------------|-----|-----|
-|[300 U to UFR](https://www.satisfactorytools.com/1.0/production?share=OVXM3dpuZ7nu1dLGcI6K)|`300 U  + misc`|`7.2 UFR`|36|18|`90 GW`|`360 UW`|` `|
+|[300 U to UFR](https://www.satisfactorytools.com/1.0/production?share=OVXM3dpuZ7nu1dLGcI6K)|`300 U  + misc`|`7.2 UFR`|36|18|`90 GW`|`360 UW`||
 |[360 UW to PuFR](https://www.satisfactorytools.com/1.0/production?share=Ys3i1JPsavOyBDRB5piu)|`360 UW + misc`|`3.2 PuFR`|32|16|`80 GW`|`32 PuW`|⚠️ still WIP|
