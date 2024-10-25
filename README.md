@@ -17,9 +17,9 @@ Purposes:
 |[U-doubler from Cu](https://www.satisfactorytools.com/1.0/production?share=cAJvGVjatHWi5jJOH98Z)|`300 U + 1000 SAM + 3600 Cu`|`600 U`|
 |[U-doubler from Ag](https://www.satisfactorytools.com/1.0/production?share=WApiXOeQUmLVeMUEc2e9)|`300 U +  500 SAM + 1500 Au`|`600 U`|
 |[U-doubler from Al](https://www.satisfactorytools.com/1.0/production?share=3h0VUNJOFscNgPt0NvhS)|`300 U +  100 SAM + 1200 Al`|`600 U`|
-|[U-tripler from Cu](https://www.satisfactorytools.com/1.0/production?share=l0BrWcvwp00to9V5GzKy)|`300 U + 1500 SAM + 5400 Al`|`600 U`|
-|[U-tripler from Ag](https://www.satisfactorytools.com/1.0/production?share=BWDokahfb3fziz5EWOgC)|`300 U + 1000 SAM + 3000 Au`|`600 U`|
-|U-tripler from Al not calculable?|`300 U +  200 SAM + 2400 Al`|`600 U`|
+|[U-tripler from Cu](https://www.satisfactorytools.com/1.0/production?share=l0BrWcvwp00to9V5GzKy)|`300 U + 1500 SAM + 5400 Al`|`900 U`|
+|[U-tripler from Ag](https://www.satisfactorytools.com/1.0/production?share=BWDokahfb3fziz5EWOgC)|`300 U + 1000 SAM + 3000 Au`|`900 U`|
+|[U-tripler from Al](https://www.satisfactorytools.com/1.0/production?share=RlYtq9nGV0fUSEPuAxAU)|`300 U +  200 SAM + 2400 Al`|`900 U`|
 
 ## Non-power usage
 
