@@ -12,16 +12,17 @@ Purposes:
 * `doubler`: "convert" Poor node to Normal
 * `tripler`: "convert" Poor node to Normal and have 300 U spare for non-power usage
 * `plusser`: "upgrade" Normal node to have 300 U spare for non-power usage
+  * effectively a `doubler` with more starting resources
 
 |Recipe|Input|Output|
 |------|-----|------|
-|[U-doubler from Cu](https://www.satisfactorytools.com/1.0/production?share=cAJvGVjatHWi5jJOH98Z)|`300 U + 1000 SAM + 3600 Cu`|`600 U`|
-|[U-doubler from Ag](https://www.satisfactorytools.com/1.0/production?share=WApiXOeQUmLVeMUEc2e9)|`300 U +  500 SAM + 1500 Au`|`600 U`|
-|[U-doubler from Al](https://www.satisfactorytools.com/1.0/production?share=3h0VUNJOFscNgPt0NvhS)|`300 U +  100 SAM + 1200 Al`|`600 U`|
-|[U-tripler from Cu](https://www.satisfactorytools.com/1.0/production?share=l0BrWcvwp00to9V5GzKy)|`300 U + 1500 SAM + 5400 Al`|`900 U`|
+|[U-doubler from Cu](https://www.satisfactorytools.com/1.0/production?share=qTlNufzNxy5N6HsAt1w8)|`300 U +  500 SAM + 1800 Cu`|`600 U`|
+|[U-doubler from Ag](https://www.satisfactorytools.com/1.0/production?share=NiABzPnbktViLAp7IvDF)|`300 U +  500 SAM + 1500 Au`|`600 U`|
+|[U-doubler from Al](https://www.satisfactorytools.com/1.0/production?share=i4asFHcujekj0NQxM3BC)|`300 U +  100 SAM + 1200 Al`|`600 U`|
+|[U-tripler from Cu](https://www.satisfactorytools.com/1.0/production?share=wjRo5Mrka9rhiDVeymQd)|`300 U + 1000 SAM + 3600 Cu`|`900 U`|
 |[U-tripler from Ag](https://www.satisfactorytools.com/1.0/production?share=BWDokahfb3fziz5EWOgC)|`300 U + 1000 SAM + 3000 Au`|`900 U`|
 |[U-tripler from Al](https://www.satisfactorytools.com/1.0/production?share=RlYtq9nGV0fUSEPuAxAU)|`300 U +  200 SAM + 2400 Al`|`900 U`|
-|[U-plusser from Cu](https://www.satisfactorytools.com/1.0/production?share=wZtWdy8dXywuQm3KTFB3)|`600 U + 1500 SAM + 5400 Cu`|`900 U`|
+|[U-plusser from Cu](https://www.satisfactorytools.com/1.0/production?share=IgncTetNaqDu4W73PcWX)|`600 U +  500 SAM + 1800 Cu`|`900 U`|
 |[U-plusser from Ag](https://www.satisfactorytools.com/1.0/production?share=A3DDFmt5EAsRqJCWFWVp)|`600 U +  500 SAM + 1500 Au`|`900 U`|
 |[U-plusser from Al](https://www.satisfactorytools.com/1.0/production?share=oSeMbzh3953DJ9P288zf)|`600 U +  100 SAM + 1200 Al`|`900 U`|
 
