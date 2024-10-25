@@ -7,6 +7,7 @@
 ## Ore multiplier
 
 Purpose of doubler: "convert" all Poor nodes to Normal
+
 Purpose of tripler: "convert" all Poor nodes to Normal and have 300 U spare for zero-stage use
 
 |Recipe|Input|Output|
