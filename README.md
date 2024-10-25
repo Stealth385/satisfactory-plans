@@ -21,14 +21,13 @@ Purpose of tripler: "convert" all Poor nodes to Normal and have 300 U spare for 
 
 ## Zero-stage usage
 
-* [300 U to Nobelisks](https://www.satisfactorytools.com/1.0/production?share=fH2nx6d6JmMGBjsXnkXP) `300 U + misc -> 12 Nobelisk, 12 C-Nobelisk, 12 N-Nobelisk`
+|Recipe|Input|Output| 
+|------|-----|------|
+|[300 U to Nobelisks](https://www.satisfactorytools.com/1.0/production?share=fH2nx6d6JmMGBjsXnkXP)|`300 U + misc`|`12 Nobelisk, 12 C-Nobelisk, 12 N-Nobelisk`
 
-## First-stage fuel
+## Fuel
 
-* [300 U to UFR](https://www.satisfactorytools.com/1.0/production?share=OVXM3dpuZ7nu1dLGcI6K) `300 U -> 7.2 UFR (36 NPP -> 90 GW) -> 360 UW`
-
-## Second-stage fuel
-
-⚠️ still WIP
-
-* [360 UW to PuFR](https://www.satisfactorytools.com/1.0/production?share=Ys3i1JPsavOyBDRB5piu) `360 UW -> 3.2 PuFR (32 NPP -> 80 GW) -> 32 PuW`
+|Recipe|Input|Output|NPP# @100%|NPP# @200%|NPP blcok output|Waste|Notes|
+|------|-----|------|----------|----------|----------------|-----|-----|
+|[300 U to UFR](https://www.satisfactorytools.com/1.0/production?share=OVXM3dpuZ7nu1dLGcI6K)|`300 U  + misc`|`7.2 UFR`|36|18|`90 GW`|`360 UW`|` `|
+|[360 UW to PuFR](https://www.satisfactorytools.com/1.0/production?share=Ys3i1JPsavOyBDRB5piu)|`360 UW + misc`|`3.2 PuFR`|32|16|`80 GW`|`32 PuW`|⚠️ still WIP|
