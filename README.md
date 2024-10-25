@@ -19,9 +19,6 @@ Purpose of tripler: "convert" all Poor nodes to Normal and have 300 U spare for 
 |[U-tripler from Ag](https://www.satisfactorytools.com/1.0/production?share=BWDokahfb3fziz5EWOgC)|`300 U + 1000 SAM + 3000 Au`|`600 U`|
 |U-tripler from Al not calculable?|`300 U +  200 SAM + 2400 Al`|`600 U`|
 
-
-🤔 U-tripler to conver Poor to Normal+ and draw one branch away to zero-stage usage
-
 ## Zero-stage usage
 
 * [300 U to Nobelisks](https://www.satisfactorytools.com/1.0/production?share=fH2nx6d6JmMGBjsXnkXP) `300 U + misc -> 12 Nobelisk, 12 C-Nobelisk, 12 N-Nobelisk`
