@@ -1,10 +1,11 @@
-# Wishful thinking
+# NPP plans
+
+## Wishful thinking
 
 * [U-maximizer](https://www.satisfactorytools.com/1.0/production?share=ACy1vTFbdD9dEZgOj6eI)
 
-# NPP
 
-## Ore multiplier
+## Ore multipliers
 
 Purposes:
 
@@ -26,7 +27,7 @@ Purposes:
 |------|-----|------|
 |[300 U to Nobelisks](https://www.satisfactorytools.com/1.0/production?share=fH2nx6d6JmMGBjsXnkXP)|`300 U + misc`|`12 Nobelisk, 12 C-Nobelisk, 12 N-Nobelisk`
 
-## Fuel
+## Power usage
 
 |Recipe|Input|Output|NPP# @100%|NPP# @200%|NPP block output|Waste|Notes|
 |------|-----|------|----------|----------|----------------|-----|-----|
