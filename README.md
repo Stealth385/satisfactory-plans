@@ -9,8 +9,9 @@
 
 Purposes:
 
-* doubler: "convert" all Poor nodes to Normal
-* tripler: "convert" all Poor nodes to Normal and have 300 U spare for non-power usage
+* doubler: "convert" Poor node to Normal
+* tripler: "convert" Poor node to Normal and have 300 U spare for non-power usage
+* plusser: "convert" Normal node to have 300 U spare for non-power usage
 
 |Recipe|Input|Output|
 |------|-----|------|
@@ -20,6 +21,9 @@ Purposes:
 |[U-tripler from Cu](https://www.satisfactorytools.com/1.0/production?share=l0BrWcvwp00to9V5GzKy)|`300 U + 1500 SAM + 5400 Al`|`900 U`|
 |[U-tripler from Ag](https://www.satisfactorytools.com/1.0/production?share=BWDokahfb3fziz5EWOgC)|`300 U + 1000 SAM + 3000 Au`|`900 U`|
 |[U-tripler from Al](https://www.satisfactorytools.com/1.0/production?share=RlYtq9nGV0fUSEPuAxAU)|`300 U +  200 SAM + 2400 Al`|`900 U`|
+|[U-plusser from Cu](https://www.satisfactorytools.com/1.0/production?share=wZtWdy8dXywuQm3KTFB3)|`600 U + 1500 SAM + 5400 Cu`|`900 U`|
+|[U-plusser from Ag](https://www.satisfactorytools.com/1.0/production?share=A3DDFmt5EAsRqJCWFWVp)|`600 U +  500 SAM + 1500 Au`|`900 U`|
+|[U-plusser from Al](https://www.satisfactorytools.com/1.0/production?share=oSeMbzh3953DJ9P288zf)|`600 U +  100 SAM + 1200 Al`|`900 U`|
 
 ## Non-power usage
 
