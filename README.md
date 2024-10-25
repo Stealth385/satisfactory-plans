@@ -9,9 +9,9 @@
 
 Purposes:
 
-* doubler: "convert" Poor node to Normal
-* tripler: "convert" Poor node to Normal and have 300 U spare for non-power usage
-* plusser: "upgrade" Normal node to have 300 U spare for non-power usage
+* `doubler`: "convert" Poor node to Normal
+* `tripler`: "convert" Poor node to Normal and have 300 U spare for non-power usage
+* `plusser`: "upgrade" Normal node to have 300 U spare for non-power usage
 
 |Recipe|Input|Output|
 |------|-----|------|
