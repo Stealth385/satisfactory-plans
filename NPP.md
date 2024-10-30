@@ -24,7 +24,7 @@
 
 ## Fuel generators
 
-|Input type|Power (GW)|Output|NPP output (GW)|NPP # @1×|NPP # @2×|NPP # @2.5×|Waste|WIP|SFT|
+|Input|Power (GW)|Output|NPP output (GW)|NPP # @1×|NPP # @2×|NPP # @2.5×|Waste|WIP|SFT|
 |----------|----------|------|---------------|-----------|-----------|-----------|-----|---|---|
 |`300  U `|`     3.9`|` 7.2  UFR`|`90`|`36`|`18`|`14.4`|`360.0  UW`|||
 |`360  UW`|` 7.7~9.3`|` 3.2 PuFR`|`80`|`32`|`16`|`12.8`|` 32.0 PuW`|⚠️||
