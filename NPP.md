@@ -15,12 +15,12 @@
 
 ## Nobelisk generator
 
-|Ore input|Other input|Power (GW)|Output|
-|---------|-----------|----------|------|
-|`300 U`|misc||`12   Nobelisk`|
-||||`12 C-Nobelisk`|
-||||`12 N-Nobelisk`|
-||||`42 Fabric    `|
+|Ore input|Other input|Power (GW)|Output|SFT|
+|---------|-----------|----------|------|---|
+|`300 U`|misc||`12   Nobelisk`|[💾](NPP/No-gen.sft)|
+||||`12 C-Nobelisk`||
+||||`12 N-Nobelisk`||
+||||`42 Fabric    `||
 
 ## Fuel generators
 
@@ -30,6 +30,7 @@
 |`360  UW`|` 7.7~9.3`|` 3.2 PuFR`|`80`|`32`|`16`|`12.8`|` 32.0 PuW`|⚠️||
 ||||||||`819.2 Fu`|||
 |` 32 PuW`|` 7.7~9.3`|`16.0 FiFR`|`40`|`16`|` 8`|` 6.4`|♻|⚠️||
+||||||||`112.4 Polymer`|||
 
 ## Wishful thinking
 
