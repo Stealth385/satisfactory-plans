@@ -13,7 +13,7 @@
 |`Au`|`1500`|`10.000`|` 500`|` 3.2~ 5.0`|` -˝- `||[💾](NPP/U-gen-Au.sft)|
 |`Al`|`1200`|` 9.756`|` 100`|` 0.7~ 1.0`|` -˝- `|✓|[💾](NPP/U-gen-Al.sft)|
 
-## Nobelisk generator
+## Nobelisk assembly
 
 |Ore input|Other input|Power (GW)|Output|SFT|
 |---------|-----------|----------|------|---|
@@ -22,7 +22,7 @@
 ||||`12 N-Nobelisk`||
 ||||`42 Fabric    `||
 
-## Fuel generators
+## Fuel assembly
 
 |Cycle|Input|Power (GW)|Output|NPP output (GW)|NPP # @1×|NPP # @2×|NPP # @2.5×|Waste|WIP|SFT|
 |----|-----|----------|------|---------------|-----------|-----------|-----------|-----|---|---|
@@ -32,11 +32,6 @@
 |`Fi`|` 32`|` 7.7~9.3`|` 16.0`|`40`|`16`|` 8`|` 6.4`|`  0`|⚠️|[💾](NPP/PuW-PuFR-FiFR.sft)|
 |    |     |          |`112.4`|`Fabric`|||||||
 
-## Wishful thinking
-
-### U-maximizer
-
-Paperclip maximizer, but for U.
 
 |Input|Power|Output|SFT|
 |-----|-----|------|---|
